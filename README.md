@@ -1,6 +1,6 @@
 # Student Management PHP
 
-Made as a part of Second Year, Semester III in-house internship at KJSIT for PHP Web Development.
+Made as a part of my Second Year, Semester III in-house internship at KJSIT for PHP Web Development.
 
 # Home Page
 ![rLOY31LymG_Smjx9tPk2Q](https://user-images.githubusercontent.com/97223612/224544207-8a04573a-c7e4-4b8c-a8ab-d64378ae36e7.png)
